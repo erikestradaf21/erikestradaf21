@@ -1,6 +1,6 @@
 ### Hola!👋 Me llamo Erik y soy un técnico en informática, dedicado y apasionado por el desarrollo de software. 
 ### Suelo trabajar con plataformas como Microsoft Visual Studio, utilizando Visual Basic, o Eclipse para Java como principales lenguajes de programación. También tengo conocimientos de otras tecnologías como MySQL, Firebase, .NET Framework, React Native con Expo y otros lenguajes como C/C++ y Swift.
-### <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="20" height="20" src="https://cdn.icon-icons.com/icons2/259/PNG/128/ic_location_on_128_28437.png" /> </a> Buenos Aires, Argentina
+### <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="20" height="20" src="https://cdn.icon-icons.com/icons2/259/PNG/128/ic_location_on_128_28437.png" /> </a> Buenos Aires, Argentina.
 
 ## :paperclip: Tecnologías:
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" /> </a>
