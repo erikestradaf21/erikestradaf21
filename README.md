@@ -15,12 +15,14 @@
 <a href="https://github.com/microsoft/terminal" target="_blank"> <img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
 <a href="https://www.java.com/es/" target="_blank"> <img alt="java" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" /> </a>
 <a href="https://www.apple.com/es/swift/" target="_blank"> <img alt="swift" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130135.png" /> </a>
-
-## :paperclip: Contacto:
+## :paperclip: Certificados:
+## :paperclip: Contactos:
 <span >
 <a href="https://www.linkedin.com/in/erik-estrada-info/" ><img width="4.5%" src="https://i.ibb.co/gFzThH7/Dise-o-sin-t-tulo-15.png"> &nbsp;
 <a href="mailto:erikestradaf21@gmail.com" ><img width="5%" src="https://i.ibb.co/CVx0ykg/Dise-o-sin-t-tulo-17.png">
 </span>
+  
+  
 <!--
 **erikestradaf21/erikestradaf21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
