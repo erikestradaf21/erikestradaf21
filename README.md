@@ -16,8 +16,6 @@
 <a href="https://www.java.com/es/" target="_blank"> <img alt="java" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" /> </a>
 <a href="https://www.apple.com/es/swift/" target="_blank"> <img alt="swift" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130135.png" /> </a>
 ## :paperclip: Certificados:
-<a href="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF/view" target="_blank"> <img width="4.5%" alt="Diploma-constancia" src="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF" /> </a>
-<a href="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF/view" target="_blank"> <img width="4.5%" alt="Constancia-finanzas" src="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF" /> </a>
 <a href="https://www.linkedin.com/in/erik-estrada-info/details/certifications/" target="_blank"> <img width="4.5%" alt="Licencias y certificados" src="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF" /> </a>
 ## :paperclip: Contactos:
 <span >
