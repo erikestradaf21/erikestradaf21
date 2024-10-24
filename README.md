@@ -4,17 +4,18 @@
 
 
 <br>
-## :paperclip: <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+## :paperclip: <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,git,github,eclipse,vscode,bash,linux" />
   </a>
 </p>
 <br>
-## :paperclip: Certificados:
+## :paperclip: <h2>Certificados: </h2>
 <a href="https://www.linkedin.com/in/erik-estrada-info/details/certifications/" target="_blank"> <img width="4.5%" alt="Licencias y certificados" src="https://drive.google.com/file/d/10VM0DDSpWteVqWp5VxPlTntBxUXqSReF" /> </a>
-## :paperclip: Contactos:
+<br>
+## :paperclip: <h2>Contactos:</h2>
 <span >
 <a href="https://www.linkedin.com/in/erik-estrada-info/" ><img width="4.5%" src="https://i.ibb.co/gFzThH7/Dise-o-sin-t-tulo-15.png"> &nbsp;
 <a href="mailto:erikestradaf21@gmail.com" ><img width="5%" src="https://i.ibb.co/CVx0ykg/Dise-o-sin-t-tulo-17.png">
@@ -23,7 +24,7 @@
 
 <!-------------------------->
 <div id="proyectos">
-## :paperclip: <h2 >test-template: Algunos proyectos👨🏻‍💻</h2>
+## :paperclip: <h2 >Algunos proyectos👨🏻‍💻 (test)</h2>
 
 <table align="left" >
 <tr border="none">
